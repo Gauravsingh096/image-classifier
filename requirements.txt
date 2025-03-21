@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+albumentations
+numpy
+matplotlib
+opencv-python
+Pillow
+scikit-learn  
+torch
+torchvision
+flask
+Pillow
